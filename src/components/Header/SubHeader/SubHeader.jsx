@@ -65,9 +65,9 @@ function SubHeader() {
       sx={{
         'bgcolor': '#215094',
         'display': 'flex',
-        'padding': '12px 10px 10px 10px',
+        'padding': '22px 10px 10px 10px',
         'color': 'white',
-        'height': '54px',
+        'height': '34px',
         'marginTop': '0px',
         '.MuiBox-root': {
           marginTop: '0px',
