@@ -1,0 +1,44 @@
+/* .header{
+    background-color: rgb(38, 90, 167);
+    display: flex;
+    padding: 15px;
+    color: white;
+}
+.leftHeaderBox{
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+.firstLeftSubHeader{
+    margin-right: 15px;
+    font-weight: 700;
+}
+.secondLeftSubHeader{
+    margin-left: 15px;
+} */
+/* .rightHeaderBox{
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+.firstRightSubHeader{
+    width: 50%;
+}
+.secondRightSubHeader{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    align-items: center;
+}
+.notificationBox{
+    margin-right: 10px;
+}
+.profileBox{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    cursor: pointer;
+}
+#basic-button{
+    color: white;
+} */

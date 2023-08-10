@@ -1,0 +1,10 @@
+.app-button {
+    background: #4297D3;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    min-width: 110px;
+    height: 30px;
+    font-size: 13px;
+    cursor:pointer;
+}
